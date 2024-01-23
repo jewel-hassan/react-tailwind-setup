@@ -19,11 +19,11 @@ const Navbar = () => {
     <nav className="bg-purple-400 py-2">
       <div onClick={() => setOpen(!open)} className="md:hidden">
         <span>
-          {open === true ? (
+          {open === true ? 
             <XMarkIcon className="h-6 w-6 text-blue-800 " />
-          ) : (
-            <Bars3Icon className="h-6 w-6 text-blue-800 " />
-          )}
+           : 
+            <Bars3Icon className="h-6 w-6 text-white " />
+          }
         </span>
       </div>
 

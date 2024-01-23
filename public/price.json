@@ -1,0 +1,23 @@
+[
+   
+      {
+        "package_id": 1,
+        "name": "Basic Package",
+        "price": 50.00,
+        "features": ["Cardio", "Weights"]
+      },
+      {
+        "package_id": 2,
+        "name": "Premium Package",
+        "price": 100.00,
+        "features": ["Cardio", "Weights", "Classes"]
+      },
+      {
+        "package_id": 3,
+        "name": "Ultimate Package",
+        "price": 150.00,
+        "features": ["Cardio", "Weights", "Classes", "Personal Trainer"]
+      }
+    
+    ]
+  
